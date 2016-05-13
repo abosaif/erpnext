@@ -10,7 +10,7 @@ app_color = "#e74c3c"
 app_version = "6.27.17"
 app_email = "info@erpnext.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+source_link = "https://github.com/ErpSharp/erpnext"
 
 error_report_email = "support@erpnext.com"
 

@@ -1,4 +1,4 @@
-source_link = "https://github.com/frappe/erpnext"
+source_link = "https://github.com/ErpSharp/erpnext"
 docs_base_url = "https://frappe.github.io/erpnext"
 headline = "ERPNext Documentation"
 sub_heading = "Detailed explanation for all ERPNext features and developer API"
